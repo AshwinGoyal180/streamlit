@@ -1,0 +1,17 @@
+# [theme]
+# primaryColor="#F39C12"
+# backgroundColor="#14131f"
+# secondaryBackgroundColor="#AED6F1"
+# textColor="#FFFFFF"
+# font="monospace"
+
+
+[server]
+# Options: "auto", "poll", "none"
+fileWatcherType = "auto"
+
+# Run on save (skip the rerun prompt)
+runOnSave = true
+
+# Files to watch (default: all .py files)
+fileWatcherPath = "."
